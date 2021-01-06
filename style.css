@@ -8,10 +8,14 @@ body {
 .home{
   font-size: 32px;
   position: fixed;
-  display: flex;
-  justify-content: flex-end;
-  width: 100%;
-  margin: 30px -40px;
+}
+.meow{
+display: flex;
+width: 100%;
+justify-content: flex-end;
+margin: 40px -40px;
+
+
 }
 .home:hover{transition: .3s ease;
 color: black;
